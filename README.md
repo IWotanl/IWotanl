@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IWotanl
+- 👀 I’m interested in learn coding
+- 🌱 I’m currently learning computer science
